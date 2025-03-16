@@ -1,7 +1,8 @@
-imageio
-tensorflow
-keras
-matplotlib
-numpy
-scipy
-opencv-python
+h5py==3.12.1
+imageio==2.37.0
+keras==2.12.0
+matplotlib==3.10.1
+numpy==1.23.5
+opencv_python==4.11.0.86
+scipy==1.15.2
+tensorflow==2.12.0
